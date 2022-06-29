@@ -1,0 +1,20 @@
+/*Useing scss will make it easier to use nesting with the css
+  I've used Live Sass Compiler to compile my scss code into css, 
+  so I can link my css file to my html files and just code in the scss file
+  the code will that be be compiled to css */
+
+/*I'm making this webpage with mobile first css. This means that my focus with the css is to design
+  the webpage with the width of a mobile device and after this scale it up to bigger width for fx
+  a laptop.
+  This is because many people look at webpages with their phones. By dooing this I can start out with 
+  a simpler design at the beginning since the phones are smaller and than make more detains as the page gets bigger.*/
+
+body{
+  margin: 10em;
+  font-family: 'Poppins', sans-serif;
+}
+
+a{
+  text-decoration: none;
+  font-size: 1.3rem;
+}

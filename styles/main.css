@@ -1,0 +1,8 @@
+/*Useing scss will make it easier to use nesting with the css
+  I've used Live Sass Compiler to compile my scss code into css, 
+  so I can link my css file to my html files and just code in the scss file
+  the code will that be be compiled to css */
+img {
+  width: 100%;
+}
+/*# sourceMappingURL=main.css.map */
